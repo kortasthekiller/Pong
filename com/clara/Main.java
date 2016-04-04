@@ -1,4 +1,4 @@
-package com.clara;
+package com.josh;
 
 import javax.swing.*;
 import java.awt.*;
